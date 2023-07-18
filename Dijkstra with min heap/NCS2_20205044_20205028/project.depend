@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1654087890 source:c:\users\marwan.mar\downloads\ncs2_20205044_20205028 (1)\ncs2_20205044_20205028\main.cpp
+	<iostream>
+	<fstream>
+	"MinHeap.h"
+	"WeightedGraph.h"
+
+1654087774 c:\users\marwan.mar\downloads\ncs2_20205044_20205028 (1)\ncs2_20205044_20205028\minheap.h
+
+1654087774 c:\users\marwan.mar\downloads\ncs2_20205044_20205028 (1)\ncs2_20205044_20205028\weightedgraph.h
+
